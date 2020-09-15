@@ -1,0 +1,10 @@
+.footerArea{
+    background: #202020;
+    color: #fff;
+    display:flex;
+    justify-content:space-between;
+    padding:10px 20px;
+}
+.footerLeft, .footerRight{
+    opacity: .4;
+}

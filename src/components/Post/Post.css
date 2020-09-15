@@ -1,0 +1,28 @@
+.MuiCardActionArea-root{
+    justify-content: flex-start !important;
+    align-items: initial !important;
+}
+.MuiCardActionArea-focusHighlight{
+    background: #fff !important;
+}
+.MuiCardContent-root {
+    padding: 0px 20px !important;
+}
+.postTitle{
+    color: #EB9920;
+    text-decoration: none;
+}
+.continue-link{
+    color: #EB9920;
+    text-decoration: none;
+    position: absolute;
+    bottom: 20px;
+    right: 70px;
+    font-size: 18px;
+}
+.continue-link:hover, .postTitle:hover{
+    opacity: .6;
+}
+.MuiTypography-h5{
+    color: #EB9920;
+}

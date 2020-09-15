@@ -1,0 +1,14 @@
+.comment{
+    display: flex;
+    height: 100px;
+}
+.profile{
+    margin-right: 20px;
+}
+.profile img{
+    border-radius: 50%;
+}
+.description h3, p {
+    margin: 3px;
+    padding: 0;
+}

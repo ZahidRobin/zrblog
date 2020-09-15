@@ -1,0 +1,10 @@
+.blogImage{
+    height: 300px !important;
+    width: 100% !important;
+}
+.MuiCardActionArea-root{
+    /* display: block !important; */
+}
+.postTitle{
+    padding:15px 0;
+}

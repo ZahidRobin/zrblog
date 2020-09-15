@@ -1,0 +1,29 @@
+.MuiAppBar-colorPrimary {
+    color: #fff;
+    background-color: #202020 !important;
+}
+.MuiToolbar-root a, .makeStyles-headerOptions-3 li a{
+    text-decoration: none;
+    color: #fff;
+}
+.makeStyles-menuOptions-4 .MuiListItem-button:hover{
+    /* background-color: rgba(0, 0, 0, .5) !important; */
+    opacity: .5;
+    transition: .5s
+}
+.makeStyles-socialOptions-5 li{
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    font-size: 23px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 1s;
+}
+.makeStyles-socialOptions-5 .MuiListItem-button:hover {
+    background-color: #74b9ff !important;
+    border-radius: 50%;
+    transition: .5s
+}
